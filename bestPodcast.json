@@ -1,0 +1,616 @@
+[
+    {
+        "Last": {
+            "artistName": "Imperative Entertainment / Westwood One Podcast Network",
+            "id": "1519901948",
+            "releaseDate": "2020-09-15",
+            "name": "In the Red Clay",
+            "kind": "podcast",
+            "copyright": "© 2020, Imperative Entertainment",
+            "artistId": "1494399387",
+            "contentAdvisoryRating": "Explicit",
+            "artistUrl": "https://podcasts.apple.com/us/artist/imperative-entertainment-westwood-one-podcast-network/1494399387",
+            "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts124/v4/20/41/d9/2041d92d-c373-0cdc-d682-6a1b9ad052f2/mza_3907784360060539104.jpg/200x200bb.png",
+            "genres": [
+                {
+                    "genreId": "1488",
+                    "name": "True Crime",
+                    "url": "https://itunes.apple.com/us/genre/id1488"
+                },
+                {
+                    "genreId": "26",
+                    "name": "Podcasts",
+                    "url": "https://itunes.apple.com/us/genre/id26"
+                },
+                {
+                    "genreId": "1324",
+                    "name": "Society & Culture",
+                    "url": "https://itunes.apple.com/us/genre/id1324"
+                },
+                {
+                    "genreId": "1543",
+                    "name": "Documentary",
+                    "url": "https://itunes.apple.com/us/genre/id1543"
+                }
+            ],
+            "url": "https://podcasts.apple.com/us/podcast/in-the-red-clay/id1519901948"
+        }
+    },
+    {
+        "Last": {
+            "artistName": "Truth Media",
+            "id": "1525749557",
+            "releaseDate": "2020-09-15",
+            "name": "Morally Indefensible",
+            "kind": "podcast",
+            "copyright": "© 2020 Truth Media, Inc.",
+            "contentAdvisoryRating": "Explicit",
+            "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts114/v4/c9/c7/54/c9c7540f-ddeb-688d-d072-24684a566457/mza_3552267058555645013.jpeg/200x200bb.png",
+            "genres": [
+                {
+                    "genreId": "1488",
+                    "name": "True Crime",
+                    "url": "https://itunes.apple.com/us/genre/id1488"
+                },
+                {
+                    "genreId": "26",
+                    "name": "Podcasts",
+                    "url": "https://itunes.apple.com/us/genre/id26"
+                },
+                {
+                    "genreId": "1324",
+                    "name": "Society & Culture",
+                    "url": "https://itunes.apple.com/us/genre/id1324"
+                },
+                {
+                    "genreId": "1543",
+                    "name": "Documentary",
+                    "url": "https://itunes.apple.com/us/genre/id1543"
+                }
+            ],
+            "url": "https://podcasts.apple.com/us/podcast/morally-indefensible/id1525749557"
+        }
+    },
+    {
+        "Last": {
+            "artistName": "All Things Comedy | Wondery",
+            "id": "480486345",
+            "releaseDate": "2020-09-14",
+            "name": "Monday Morning Podcast",
+            "kind": "podcast",
+            "copyright": "© Bill Burr",
+            "artistId": "594344196",
+            "contentAdvisoryRating": "Explicit",
+            "artistUrl": "https://podcasts.apple.com/us/artist/all-things-comedy-wondery/594344196",
+            "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/65/aa/eb/65aaebaf-d58e-0eb7-51b7-43d4e4d0eb94/mza_2788674596595267357.jpeg/200x200bb.png",
+            "genres": [
+                {
+                    "genreId": "1303",
+                    "name": "Comedy",
+                    "url": "https://itunes.apple.com/us/genre/id1303"
+                },
+                {
+                    "genreId": "26",
+                    "name": "Podcasts",
+                    "url": "https://itunes.apple.com/us/genre/id26"
+                }
+            ],
+            "url": "https://podcasts.apple.com/us/podcast/monday-morning-podcast/id480486345"
+        }
+    },
+    {
+        "Last": {
+            "artistName": "Barstool Sports",
+            "id": "1530051787",
+            "releaseDate": "2020-09-26",
+            "name": "The Yak",
+            "kind": "podcast",
+            "copyright": "© 2020 Barstool Sports",
+            "contentAdvisoryRating": "Explicit",
+            "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts124/v4/4a/5d/d7/4a5dd7a7-9a7e-014e-0018-0a09ee40d6a7/mza_7275265378413327077.jpg/200x200bb.png",
+            "genres": [
+                {
+                    "genreId": "1303",
+                    "name": "Comedy",
+                    "url": "https://itunes.apple.com/us/genre/id1303"
+                },
+                {
+                    "genreId": "26",
+                    "name": "Podcasts",
+                    "url": "https://itunes.apple.com/us/genre/id26"
+                }
+            ],
+            "url": "https://podcasts.apple.com/us/podcast/the-yak/id1530051787"
+        }
+    },
+    {
+        "Last": {
+            "artistName": "Audioboom",
+            "id": "1532102239",
+            "releaseDate": "2020-09-15",
+            "name": "Baby Mamas No Drama with Kail Lowry & Vee Rivera",
+            "kind": "podcast",
+            "artistId": "365683387",
+            "contentAdvisoryRating": "Explicit",
+            "artistUrl": "https://podcasts.apple.com/us/artist/audioboom/365683387",
+            "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts114/v4/65/03/47/65034722-b40d-7436-0e08-cfc6fc9f36eb/mza_4439422127165897342.jpg/200x200bb.png",
+            "genres": [
+                {
+                    "genreId": "1324",
+                    "name": "Society & Culture",
+                    "url": "https://itunes.apple.com/us/genre/id1324"
+                },
+                {
+                    "genreId": "26",
+                    "name": "Podcasts",
+                    "url": "https://itunes.apple.com/us/genre/id26"
+                },
+                {
+                    "genreId": "1305",
+                    "name": "Kids & Family",
+                    "url": "https://itunes.apple.com/us/genre/id1305"
+                }
+            ],
+            "url": "https://podcasts.apple.com/us/podcast/baby-mamas-no-drama-with-kail-lowry-vee-rivera/id1532102239"
+        }
+    },
+    {
+        "Last": {
+            "artistName": "Westwood One Podcast Network",
+            "id": "209377688",
+            "releaseDate": "2020-09-15",
+            "name": "Mark Levin Podcast",
+            "kind": "podcast",
+            "copyright": "© 2020 Westwood One Podcast Network / Mark R. Levin",
+            "artistId": "1383049848",
+            "artistUrl": "https://podcasts.apple.com/us/artist/westwood-one-podcast-network/1383049848",
+            "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/9a/cf/e9/9acfe9a7-cfd5-65f8-fdb2-92f9f8900672/mza_6211482915234184292.jpg/200x200bb.png",
+            "genres": [
+                {
+                    "genreId": "1530",
+                    "name": "News Commentary",
+                    "url": "https://itunes.apple.com/us/genre/id1530"
+                },
+                {
+                    "genreId": "26",
+                    "name": "Podcasts",
+                    "url": "https://itunes.apple.com/us/genre/id26"
+                },
+                {
+                    "genreId": "1489",
+                    "name": "News",
+                    "url": "https://itunes.apple.com/us/genre/id1489"
+                }
+            ],
+            "url": "https://podcasts.apple.com/us/podcast/mark-levin-podcast/id209377688"
+        }
+    },
+    {
+        "Last": {
+            "artistName": "Foxtopus Ink",
+            "id": "1434465245",
+            "releaseDate": "2020-09-24",
+            "name": "Wild Thing",
+            "kind": "podcast",
+            "copyright": "© Foxtopus Ink",
+            "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts124/v4/c6/cf/05/c6cf0552-7c23-3d80-ce9b-941269318d47/mza_1654878072754475140.jpg/200x200bb.png",
+            "genres": [
+                {
+                    "genreId": "1533",
+                    "name": "Science",
+                    "url": "https://itunes.apple.com/us/genre/id1533"
+                },
+                {
+                    "genreId": "26",
+                    "name": "Podcasts",
+                    "url": "https://itunes.apple.com/us/genre/id26"
+                }
+            ],
+            "url": "https://podcasts.apple.com/us/podcast/wild-thing/id1434465245"
+        }
+    },
+    {
+        "Last": {
+            "artistName": "TED",
+            "id": "160904630",
+            "releaseDate": "2020-09-14",
+            "name": "TED Talks Daily",
+            "kind": "podcast",
+            "copyright": "© Creative Commons: https://creativecommons.org/licenses/by-nc-nd/4.0/",
+            "artistId": "204040224",
+            "artistUrl": "https://podcasts.apple.com/us/artist/ted/204040224",
+            "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts124/v4/8c/da/c9/8cdac9f2-b488-a9c4-e611-2a677fa59ae2/mza_3718282663413307677.png/200x200bb.png",
+            "genres": [
+                {
+                    "genreId": "1304",
+                    "name": "Education",
+                    "url": "https://itunes.apple.com/us/genre/id1304"
+                },
+                {
+                    "genreId": "26",
+                    "name": "Podcasts",
+                    "url": "https://itunes.apple.com/us/genre/id26"
+                },
+                {
+                    "genreId": "1324",
+                    "name": "Society & Culture",
+                    "url": "https://itunes.apple.com/us/genre/id1324"
+                }
+            ],
+            "url": "https://podcasts.apple.com/us/podcast/ted-talks-daily/id160904630"
+        }
+    },
+    {
+        "Last": {
+            "artistName": "NPR",
+            "id": "1503226625",
+            "releaseDate": "2020-09-14",
+            "name": "Consider This from NPR",
+            "kind": "podcast",
+            "copyright": "© Copyright 2020 NPR - For Personal Use Only",
+            "artistId": "125443881",
+            "artistUrl": "https://podcasts.apple.com/us/artist/npr/125443881",
+            "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/48/52/ec/4852ec4d-cb78-21ff-19aa-3fd2951bda0c/mza_5627454023668297095.png/200x200bb.png",
+            "genres": [
+                {
+                    "genreId": "1526",
+                    "name": "Daily News",
+                    "url": "https://itunes.apple.com/us/genre/id1526"
+                },
+                {
+                    "genreId": "26",
+                    "name": "Podcasts",
+                    "url": "https://itunes.apple.com/us/genre/id26"
+                },
+                {
+                    "genreId": "1489",
+                    "name": "News",
+                    "url": "https://itunes.apple.com/us/genre/id1489"
+                },
+                {
+                    "genreId": "1530",
+                    "name": "News Commentary",
+                    "url": "https://itunes.apple.com/us/genre/id1530"
+                }
+            ],
+            "url": "https://podcasts.apple.com/us/podcast/consider-this-from-npr/id1503226625"
+        }
+    },
+    {
+        "Last": {
+            "artistName": "Jocko DEFCOR Network",
+            "id": "1070322219",
+            "releaseDate": "2020-09-15",
+            "name": "Jocko Podcast",
+            "kind": "podcast",
+            "artistId": "1404497961",
+            "contentAdvisoryRating": "Explicit",
+            "artistUrl": "https://podcasts.apple.com/us/artist/jocko-defcor-network/1404497961",
+            "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts113/v4/e9/cd/90/e9cd902e-845f-1ee1-5202-695cbab2c232/mza_6968031280577148267.jpg/200x200bb.png",
+            "genres": [
+                {
+                    "genreId": "1321",
+                    "name": "Business",
+                    "url": "https://itunes.apple.com/us/genre/id1321"
+                },
+                {
+                    "genreId": "26",
+                    "name": "Podcasts",
+                    "url": "https://itunes.apple.com/us/genre/id26"
+                },
+                {
+                    "genreId": "1487",
+                    "name": "History",
+                    "url": "https://itunes.apple.com/us/genre/id1487"
+                }
+            ],
+            "url": "https://podcasts.apple.com/us/podcast/jocko-podcast/id1070322219"
+        }
+    },
+    {
+        "Last": {
+            "artistName": "Pushkin Industries",
+            "id": "1474245040",
+            "releaseDate": "2020-09-14",
+            "name": "The Happiness Lab with Dr. Laurie Santos",
+            "kind": "podcast",
+            "copyright": "© 2019 Pushkin Industries",
+            "artistId": "1465988663",
+            "artistUrl": "https://podcasts.apple.com/us/artist/pushkin-industries/1465988663",
+            "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts123/v4/3d/01/58/3d015807-3246-1610-743e-98ac00a897d8/mza_9698699079591676862.jpg/200x200bb.png",
+            "genres": [
+                {
+                    "genreId": "1324",
+                    "name": "Society & Culture",
+                    "url": "https://itunes.apple.com/us/genre/id1324"
+                },
+                {
+                    "genreId": "26",
+                    "name": "Podcasts",
+                    "url": "https://itunes.apple.com/us/genre/id26"
+                },
+                {
+                    "genreId": "1304",
+                    "name": "Education",
+                    "url": "https://itunes.apple.com/us/genre/id1304"
+                }
+            ],
+            "url": "https://podcasts.apple.com/us/podcast/the-happiness-lab-with-dr-laurie-santos/id1474245040"
+        }
+    },
+    {
+        "Last": {
+            "artistName": "The Wall Street Journal & Gimlet",
+            "id": "1469394914",
+            "releaseDate": "2020-09-14",
+            "name": "The Journal.",
+            "kind": "podcast",
+            "copyright": "Copyright © Dow Jones & Company, Inc. All rights reserved.",
+            "artistId": "150975419",
+            "artistUrl": "https://podcasts.apple.com/us/artist/the-wall-street-journal-gimlet/150975419",
+            "artworkUrl100": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts113/v4/07/85/b0/0785b070-36c2-5515-72a0-0bb8482f424b/mza_3087557325527242553.jpeg/200x200bb.png",
+            "genres": [
+                {
+                    "genreId": "1526",
+                    "name": "Daily News",
+                    "url": "https://itunes.apple.com/us/genre/id1526"
+                },
+                {
+                    "genreId": "26",
+                    "name": "Podcasts",
+                    "url": "https://itunes.apple.com/us/genre/id26"
+                },
+                {
+                    "genreId": "1489",
+                    "name": "News",
+                    "url": "https://itunes.apple.com/us/genre/id1489"
+                }
+            ],
+            "url": "https://podcasts.apple.com/us/podcast/the-journal/id1469394914"
+        }
+    },
+    {
+        "Last": {
+            "artistName": "MeatEater",
+            "id": "960902903",
+            "releaseDate": "2020-09-14",
+            "name": "The MeatEater Podcast",
+            "kind": "podcast",
+            "copyright": "© 2020 MeatEater",
+            "artistId": "1470483378",
+            "artistUrl": "https://podcasts.apple.com/us/artist/meateater/1470483378",
+            "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/c7/0d/d3/c70dd349-c32e-f89f-42fe-f6d973cd6b84/mza_14368759733848515504.jpg/200x200bb.png",
+            "genres": [
+                {
+                    "genreId": "1559",
+                    "name": "Wilderness",
+                    "url": "https://itunes.apple.com/us/genre/id1559"
+                },
+                {
+                    "genreId": "26",
+                    "name": "Podcasts",
+                    "url": "https://itunes.apple.com/us/genre/id26"
+                },
+                {
+                    "genreId": "1545",
+                    "name": "Sports",
+                    "url": "https://itunes.apple.com/us/genre/id1545"
+                }
+            ],
+            "url": "https://podcasts.apple.com/us/podcast/the-meateater-podcast/id960902903"
+        }
+    },
+    {
+        "Last": {
+            "artistName": "Texas Monthly",
+            "id": "1528040283",
+            "releaseDate": "2020-09-14",
+            "name": "Tom Brown's Body",
+            "kind": "podcast",
+            "copyright": "© Copyright Texas Monthly",
+            "artistId": "1491230277",
+            "artistUrl": "https://podcasts.apple.com/us/artist/texas-monthly/1491230277",
+            "artworkUrl100": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts124/v4/c3/93/02/c3930292-81e9-a7af-65d3-352e9a78eb29/mza_16666238900300215327.jpg/200x200bb.png",
+            "genres": [
+                {
+                    "genreId": "1488",
+                    "name": "True Crime",
+                    "url": "https://itunes.apple.com/us/genre/id1488"
+                },
+                {
+                    "genreId": "26",
+                    "name": "Podcasts",
+                    "url": "https://itunes.apple.com/us/genre/id26"
+                }
+            ],
+            "url": "https://podcasts.apple.com/us/podcast/tom-browns-body/id1528040283"
+        }
+    },
+    {
+        "Last": {
+            "artistName": "iHeartRadio",
+            "id": "1232428553",
+            "releaseDate": "2020-09-15",
+            "name": "The Breakfast Club",
+            "kind": "podcast",
+            "copyright": "© Copyright The Breakfast Club",
+            "artworkUrl100": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts113/v4/87/66/8d/87668dd3-bb16-c0ad-c10b-a1087cb86599/mza_14642048961231999135.jpeg/200x200bb.png",
+            "genres": [
+                {
+                    "genreId": "1303",
+                    "name": "Comedy",
+                    "url": "https://itunes.apple.com/us/genre/id1303"
+                },
+                {
+                    "genreId": "26",
+                    "name": "Podcasts",
+                    "url": "https://itunes.apple.com/us/genre/id26"
+                }
+            ],
+            "url": "https://podcasts.apple.com/us/podcast/the-breakfast-club/id1232428553"
+        }
+    },
+    {
+        "Last": {
+            "artistName": "Tim Ferriss: Bestselling Author, Human Guinea Pig",
+            "id": "863897795",
+            "releaseDate": "2020-09-15",
+            "name": "The Tim Ferriss Show",
+            "kind": "podcast",
+            "copyright": "© 2014–2020 Tim Ferriss",
+            "artistId": "867667252",
+            "artistUrl": "https://podcasts.apple.com/us/artist/tim-ferriss-bestselling-author-human-guinea-pig/867667252",
+            "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/31/e2/0e/31e20e97-63a4-be59-5210-299e3dc903f7/mza_5431675134966086683.jpeg/200x200bb.png",
+            "genres": [
+                {
+                    "genreId": "1493",
+                    "name": "Entrepreneurship",
+                    "url": "https://itunes.apple.com/us/genre/id1493"
+                },
+                {
+                    "genreId": "26",
+                    "name": "Podcasts",
+                    "url": "https://itunes.apple.com/us/genre/id26"
+                },
+                {
+                    "genreId": "1321",
+                    "name": "Business",
+                    "url": "https://itunes.apple.com/us/genre/id1321"
+                },
+                {
+                    "genreId": "1304",
+                    "name": "Education",
+                    "url": "https://itunes.apple.com/us/genre/id1304"
+                }
+            ],
+            "url": "https://podcasts.apple.com/us/podcast/the-tim-ferriss-show/id863897795"
+        }
+    },
+    {
+        "Last": {
+            "artistName": "Freakonomics Radio + Stitcher",
+            "id": "354668519",
+            "releaseDate": "2020-09-12",
+            "name": "Freakonomics Radio",
+            "kind": "podcast",
+            "copyright": "© 2020 ​Dubner Productions and Stitcher",
+            "artistId": "1233903520",
+            "artistUrl": "https://podcasts.apple.com/us/artist/freakonomics-radio-stitcher/1233903520",
+            "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts113/v4/af/cc/e0/afcce01e-9404-c9ad-77e0-ed409c30a2fa/mza_5769203966393530837.jpg/200x200bb.png",
+            "genres": [
+                {
+                    "genreId": "1543",
+                    "name": "Documentary",
+                    "url": "https://itunes.apple.com/us/genre/id1543"
+                },
+                {
+                    "genreId": "26",
+                    "name": "Podcasts",
+                    "url": "https://itunes.apple.com/us/genre/id26"
+                },
+                {
+                    "genreId": "1324",
+                    "name": "Society & Culture",
+                    "url": "https://itunes.apple.com/us/genre/id1324"
+                }
+            ],
+            "url": "https://podcasts.apple.com/us/podcast/freakonomics-radio/id354668519"
+        }
+    },
+    {
+        "Last": {
+            "artistName": "Vogue & Condé Nast",
+            "id": "1526206712",
+            "releaseDate": "2020-09-17",
+            "name": "In VOGUE: The 1990s",
+            "kind": "podcast",
+            "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts124/v4/97/96/10/97961048-8595-8c77-0b9f-c566ebbe633f/mza_10462000575510338351.jpg/200x200bb.png",
+            "genres": [
+                {
+                    "genreId": "1459",
+                    "name": "Fashion & Beauty",
+                    "url": "https://itunes.apple.com/us/genre/id1459"
+                },
+                {
+                    "genreId": "26",
+                    "name": "Podcasts",
+                    "url": "https://itunes.apple.com/us/genre/id26"
+                },
+                {
+                    "genreId": "1301",
+                    "name": "Arts",
+                    "url": "https://itunes.apple.com/us/genre/id1301"
+                },
+                {
+                    "genreId": "1324",
+                    "name": "Society & Culture",
+                    "url": "https://itunes.apple.com/us/genre/id1324"
+                },
+                {
+                    "genreId": "1543",
+                    "name": "Documentary",
+                    "url": "https://itunes.apple.com/us/genre/id1543"
+                }
+            ],
+            "url": "https://podcasts.apple.com/us/podcast/in-vogue-the-1990s/id1526206712"
+        }
+    },
+    {
+        "Last": {
+            "artistName": "The Moth",
+            "id": "275699983",
+            "releaseDate": "2020-09-11",
+            "name": "The Moth",
+            "kind": "podcast",
+            "copyright": "© 2006-2019",
+            "artworkUrl100": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts114/v4/01/3a/67/013a67f9-4fd4-72ac-a379-3ab0367661fa/mza_16930058865536346683.png/200x200bb.png",
+            "genres": [
+                {
+                    "genreId": "1405",
+                    "name": "Performing Arts",
+                    "url": "https://itunes.apple.com/us/genre/id1405"
+                },
+                {
+                    "genreId": "26",
+                    "name": "Podcasts",
+                    "url": "https://itunes.apple.com/us/genre/id26"
+                },
+                {
+                    "genreId": "1301",
+                    "name": "Arts",
+                    "url": "https://itunes.apple.com/us/genre/id1301"
+                }
+            ],
+            "url": "https://podcasts.apple.com/us/podcast/the-moth/id275699983"
+        }
+    },
+    {
+        "Last": {
+            "artistName": "CBS News Radio",
+            "id": "965818306",
+            "releaseDate": "2020-09-20",
+            "name": "48 Hours",
+            "kind": "podcast",
+            "copyright": "© 2020 CBS Broadcasting Inc. All Rights Reserved.",
+            "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts123/v4/56/4e/eb/564eebe4-8643-0236-52de-dde7a48ab1c6/mza_13664045680015765308.jpeg/200x200bb.png",
+            "genres": [
+                {
+                    "genreId": "1488",
+                    "name": "True Crime",
+                    "url": "https://itunes.apple.com/us/genre/id1488"
+                },
+                {
+                    "genreId": "26",
+                    "name": "Podcasts",
+                    "url": "https://itunes.apple.com/us/genre/id26"
+                },
+                {
+                    "genreId": "1489",
+                    "name": "News",
+                    "url": "https://itunes.apple.com/us/genre/id1489"
+                }
+            ],
+            "url": "https://podcasts.apple.com/us/podcast/48-hours/id965818306"
+        }
+    }
+]

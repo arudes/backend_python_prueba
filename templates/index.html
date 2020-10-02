@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/css/estiloPropio.css">
+    <link href="https://fonts.googleapis.com/css2?family=Piazzolla:wght@800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <title>Details Proyect</title>
+</head>
+<body>
+    <div class="container text-center">
+        <h1 class="abc">Detalles del proyecto</h1><br>
+        <p class="text-left">
+            El proyecto se ejecuta en 127.0.0.1:4000 o localhost:4000
+            <p class="text-left">Las rutas proporcionadas de ben de ser escritas en la barra del navegador</p>
+            <p class="text-left">Con respecto al servicio de obtener los 20 mejores y ultimos podcast se debe de establecer la ruta donde se creara el archivo dentro del proyecto</p>
+            <p class="text-left">
+                Se utilizo datos JSON como fuente
+            </p>
+            <ul class="text-left">
+                <li>Servicio para buscar podcast por medio de nombre del artista (artistName)</li>
+                <li class="list-unstyled">ruta: /podcast/nombre del artista</li>
+                <li class="list-unstyled">Algunos nombres con los que se puede probar:</li>
+                <ul>
+                    <li class="list-unstyled">iHeartRadio</li>
+                    <li class="list-unstyled">Joe Rogan</li>
+                    <li class="list-unstyled">Armchair Umbrella</li>
+                </ul>
+                <li>Para el servicio de guardar los 20 mejores en un JSON</li>
+                <li class="list-unstyled">ruta: /best20 - Crea un archivo dentro de la carpeta del proyecto </li>
+                <li>Para reemplazar los 20 podcast principales por los 20 inferiores en un archivo JSON</li>
+                <li class="list-unstyled">ruta: /last20 - Reemplaza el contenido del archivo creado de los 20 mejores podcast</li>
+                <li>Para eliminar podcast por medio del nombre del artista (artistName)</li>
+                <li class="list-unstyled">ruta: /podcastdel/nombre del artista ></li>
+                <br>
+                <p class="font-weight-bold">Usando una base de datos SQLite3 llamada: podcast.db</p>
+                <br>
+                <li>Servicio que lista los veinte podcast de la base de datos</li>
+                <li class="list-unstyled">ruta: /podcastdb - Se listan en formato JSON</li>
+            </ul>
+        </p>
+    </div>
+</body>
+</html>
